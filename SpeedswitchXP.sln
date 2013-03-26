@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpeedswitchXP", "SpeedswitchXP.vcxproj", "{F728592F-B50A-47C3-A631-64AC7A4D5CE5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpeedswitchXPDEU", "SpeedswitchXPDEU\SpeedswitchXPDEU.vcxproj", "{65681B17-B03B-4463-96EB-7A8D2E4F5152}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpeedswitchXPENU", "SpeedswitchXPENU\SpeedswitchXPENU.vcxproj", "{9107B9A6-66EE-4300-9743-5EB967ED31A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F728592F-B50A-47C3-A631-64AC7A4D5CE5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F728592F-B50A-47C3-A631-64AC7A4D5CE5}.Debug|Win32.Build.0 = Debug|Win32
+		{F728592F-B50A-47C3-A631-64AC7A4D5CE5}.Release|Win32.ActiveCfg = Release|Win32
+		{F728592F-B50A-47C3-A631-64AC7A4D5CE5}.Release|Win32.Build.0 = Release|Win32
+		{65681B17-B03B-4463-96EB-7A8D2E4F5152}.Debug|Win32.ActiveCfg = Debug|Win32
+		{65681B17-B03B-4463-96EB-7A8D2E4F5152}.Debug|Win32.Build.0 = Debug|Win32
+		{65681B17-B03B-4463-96EB-7A8D2E4F5152}.Release|Win32.ActiveCfg = Release|Win32
+		{65681B17-B03B-4463-96EB-7A8D2E4F5152}.Release|Win32.Build.0 = Release|Win32
+		{9107B9A6-66EE-4300-9743-5EB967ED31A6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9107B9A6-66EE-4300-9743-5EB967ED31A6}.Debug|Win32.Build.0 = Debug|Win32
+		{9107B9A6-66EE-4300-9743-5EB967ED31A6}.Release|Win32.ActiveCfg = Release|Win32
+		{9107B9A6-66EE-4300-9743-5EB967ED31A6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
